@@ -66,3 +66,19 @@ sudo -h
 sudo -i
 sudo -i
 sudo -i
+ll
+git status
+yum install -y
+git --version
+git add katooms
+git commit -m "firstcommit" katooms
+git log
+git add jyothi
+git commit -m "second commit" jyothi
+git status
+git add .
+git status
+git commit "second commit" .
+git commit -m "second commit" .
+git status
+git log
